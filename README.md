@@ -24,7 +24,7 @@ Ini adalah proyek portofolio sederhana yang dibuat menggunakan React JS. Proyek 
 4. Jalankan project
 
    ```bash
-   pnpm install
+   pnpm run dev
 
 ## **Mengubah Konten**
   Anda dapat dengan mudah mengganti konten portofolio dengan konten Anda sendiri. Untuk melakukannya, ikuti langkah-langkah berikut:
